@@ -5,12 +5,18 @@
     margin-left: auto;
     margin-right: auto;
  }
- .button1 {
-    margin-top: 2%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-      }
+ 
+ .buttons {
+	color:#fff;
+	display: block;
+	width: 200px;
+	padding: 22px;
+	margin-top: 275px;   
+	margin: 0 auto;
+	text-transform: uppercase;
+	text-decoration: none;
+    text-align: center;
+         }
       
       
  
